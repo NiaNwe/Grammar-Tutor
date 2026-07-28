@@ -1,0 +1,193 @@
+id,level,topic,question,query_type
+a1-subject-pronouns-i-you-he-she-it-we-they,A1,subject pronouns,"When do I use subject pronouns like I, you, he, she, it, we, and they in a sentence?",rule_question
+a1-subject-pronouns-i-you-he-she-it-we-they,A1,subject pronouns,Is this sentence correct: Her works in a bank.,sentence_correction
+a1-subject-pronouns-i-you-he-she-it-we-they,A1,subject pronouns,Can I say 'She works in a bank' instead of using a name?,indirect_question
+a1-verb-be-present,A1,verb be,"When do I use am, is, and are with different subjects?",rule_question
+a1-verb-be-present,A1,verb be,She are happy. Is that correct?,sentence_correction
+a1-verb-be-present,A1,verb be,"Do we say ""you is"" or ""you are""?",indirect_question
+a1-verb-be-negatives,A1,verb be,How do I make negative sentences with the verb be?,rule_question
+a1-verb-be-negatives,A1,verb be,I not am tired. Is that correct?,sentence_correction
+a1-verb-be-negatives,A1,verb be,How do I say it if I want to say I'm not busy?,indirect_question
+a1-verb-be-questions,A1,verb be,How do I make a question with the verb be in English?,rule_question
+a1-verb-be-questions,A1,verb be,You are tired?,sentence_correction
+a1-verb-be-questions,A1,verb be,Can I say 'Am I late?' when I ask about myself?,indirect_question
+a1-articles-a-an-the,A1,articles,"When do I use a, an, or the before a noun?",rule_question
+a1-articles-a-an-the,A1,articles,I saw an car on the street. Is that correct?,sentence_correction
+a1-articles-a-an-the,A1,articles,"Can you tell me if I should say a, an, or the in this sentence?",indirect_question
+a1-plurals-regular,A1,plurals,How do I make most regular nouns plural in English?,rule_question
+a1-plurals-regular,A1,plurals,I saw three cat in the garden. Is that correct?,sentence_correction
+a1-plurals-regular,A1,plurals,"If I have more than one book, should I write book or books?",indirect_question
+a1-plurals-spelling-changes,A1,plurals,When do nouns take -es instead of just -s in the plural?,rule_question
+a1-plurals-spelling-changes,A1,plurals,I saw two boxs in the room. Is that correct?,sentence_correction
+a1-plurals-spelling-changes,A1,plurals,"Do all plural nouns just add -s, or are there other spelling changes too?",indirect_question
+a1-present-simple-habit,A1,present simple,When do we use the present simple tense for routines or habits?,rule_question
+a1-present-simple-habit,A1,present simple,"I go to work by bus every day. Is that right, or should it be ""I am go to work by bus""?",sentence_correction
+a1-present-simple-habit,A1,present simple,How do I talk about something I usually do every day?,indirect_question
+a1-present-simple-third-person,A1,present simple,When do I add -s or -es to a verb in the present simple?,rule_question
+a1-present-simple-third-person,A1,present simple,She go to school every day.,sentence_correction
+a1-present-simple-third-person,A1,present simple,Do I say 'it rain' or 'it rains' for the present simple?,indirect_question
+a1-present-simple-do-does-negatives,A1,present simple,"When do I use do not or does not in present simple negatives, and should the main verb change too?",rule_question
+a1-present-simple-do-does-negatives,A1,present simple,She does not plays tennis. Is this sentence correct?,sentence_correction
+a1-present-simple-do-does-negatives,A1,present simple,How do I say a present simple negative without changing the main verb?,indirect_question
+a1-present-simple-questions,A1,present simple,"How do I make a present simple question with a verb like ""speak""?",rule_question
+a1-present-simple-questions,A1,present simple,You speak English?,sentence_correction
+a1-present-simple-questions,A1,present simple,"In English, do I say ""Does she like coffee?"" or ""She does like coffee?""",indirect_question
+a1-adjectives-order,A1,adjective order,"In English, where do we usually put an adjective when it describes a noun?",rule_question
+a1-adjectives-order,A1,adjective order,I saw a car red on the street. Is that correct?,sentence_correction
+a1-adjectives-order,A1,adjective order,"Do we say ""a big dog"" or ""a dog big""?",indirect_question
+a1-there-is-there-are,A1,there is there are,When do I use “there is” and when do I use “there are”?,rule_question
+a1-there-is-there-are,A1,there is there are,There is two chairs in the room. Is that correct?,sentence_correction
+a1-there-is-there-are,A1,there is there are,"In a photo with one dog, should I say “there is a dog” or “there are a dog”?",indirect_question
+a1-this-that-these-those,A1,demonstratives,"When do I use this and these, and when do I use that and those?",rule_question
+a1-this-that-these-those,A1,demonstratives,This are my keys. Is that correct?,sentence_correction
+a1-this-that-these-those,A1,demonstratives,Can I say these for something close and those for something far away?,indirect_question
+a1-possessive-adjectives,A1,possessive adjectives,"When do I use my, your, his, her, its, our, and their before a noun?",rule_question
+a1-possessive-adjectives,A1,possessive adjectives,This is me phone. Is that correct?,sentence_correction
+a1-possessive-adjectives,A1,possessive adjectives,How do I say it when I want to show something belongs to me?,indirect_question
+a2-countable-uncountable-nouns,A2,countable and uncountable nouns,What is the difference between countable nouns and uncountable nouns when we talk about plural forms?,rule_question
+a2-countable-uncountable-nouns,A2,countable and uncountable nouns,I need two rices for dinner. Is that correct?,sentence_correction
+a2-countable-uncountable-nouns,A2,countable and uncountable nouns,"Can I say many rice, or should I say it another way?",indirect_question
+a2-some-any,A2,some and any,"When do we use some, and when do we use any in English sentences?",rule_question
+a2-some-any,A2,some and any,I don’t have some bread at home. Is that correct?,sentence_correction
+a2-some-any,A2,some and any,"Can I say ‘some’ in a question, or should I use ‘any’?",indirect_question
+a2-a-an-with-singular-countable,A2,articles,When should I use a or an with a singular countable noun?,rule_question
+a2-a-an-with-singular-countable,A2,articles,I saw an teachers in the classroom. Is that correct?,sentence_correction
+a2-a-an-with-singular-countable,A2,articles,Can I say a water or an apples?,indirect_question
+a2-the-with-specific-things,A2,definite article,When do I use “the” with a noun?,rule_question
+a2-the-with-specific-things,A2,definite article,"Can you open window, please?",sentence_correction
+a2-the-with-specific-things,A2,definite article,"If I say “the book,” does that mean a specific book we both know about?",indirect_question
+a2-present-continuous-now,A2,present continuous,When do we use am/is/are + verb-ing in English?,rule_question
+a2-present-continuous-now,A2,present continuous,Is this sentence correct: I work on my project now?,sentence_correction
+a2-present-continuous-now,A2,present continuous,What should I say if I want to talk about something happening at this moment?,indirect_question
+a2-present-simple-vs-continuous,A2,present simple versus present continuous,When should I use the present simple and when should I use the present continuous?,rule_question
+a2-present-simple-vs-continuous,A2,present simple versus present continuous,I am working every day. Is this correct?,sentence_correction
+a2-present-simple-vs-continuous,A2,present simple versus present continuous,"Do I say, 'I work every day' or 'I am working every day' for a routine?",indirect_question
+a2-past-simple-regular,A2,past simple,How do I form the past simple of regular verbs?,rule_question
+a2-past-simple-regular,A2,past simple,Yesterday I play football with my friends after school. Is that correct?,sentence_correction
+a2-past-simple-regular,A2,past simple,Can I say 'I visited my grandma last weekend' for a finished action in the past?,indirect_question
+a2-past-simple-irregular,A2,past simple,How do I form the past tense of common verbs that are irregular?,rule_question
+a2-past-simple-irregular,A2,past simple,Yesterday I goed to work. Is that correct?,sentence_correction
+a2-past-simple-irregular,A2,past simple,"How do you say the past of go, and are there other common verbs like that?",indirect_question
+a2-past-simple-negative-question,A2,past simple,How do I make negative sentences and questions in the past simple with did?,rule_question
+a2-past-simple-negative-question,A2,past simple,Did you went to the party last night?,sentence_correction
+a2-past-simple-negative-question,A2,past simple,"Can I say 'Did she call you yesterday,' or do I need the base verb after did?",indirect_question
+a2-future-going-to,A2,future forms,"When do we use be going to for the future, and what kind of future meaning does it show?",rule_question
+a2-future-going-to,A2,future forms,We go to visit my parents tomorrow. Is that correct?,sentence_correction
+a2-future-going-to,A2,future forms,How do I say that I already planned to visit my parents tomorrow?,indirect_question
+a2-future-will,A2,future forms,"When do we use will for future actions, and what kinds of situations does it describe?",rule_question
+a2-future-will,A2,future forms,"I’m going to help you with that tomorrow. Is that correct, or should I say it another way?",sentence_correction
+a2-future-will,A2,future forms,How do I say something if I decide at the moment to help someone?,indirect_question
+a2-comparatives-short-adjectives,A2,comparatives,When do I use -er and when do I use more with adjectives?,rule_question
+a2-comparatives-short-adjectives,A2,comparatives,Is this sentence correct: This bag is more cheap than that one?,sentence_correction
+a2-comparatives-short-adjectives,A2,comparatives,How do I compare two things like a small bag and a big bag?,indirect_question
+a2-superlatives-short-adjectives,A2,superlatives,When do I use -est and when do I use most with adjectives?,rule_question
+a2-superlatives-short-adjectives,A2,superlatives,Is this correct: That is the most small shop in my town.,sentence_correction
+a2-superlatives-short-adjectives,A2,superlatives,Which is right: the biggest or the most big?,indirect_question
+a2-must-for-necessity,A2,modal verbs,When do we use must to say something is necessary or obligatory?,rule_question
+a2-must-for-necessity,A2,modal verbs,You must to wear a seat belt in the car.,sentence_correction
+a2-must-for-necessity,A2,modal verbs,Do I need to use must or something else when I want to say it is necessary?,indirect_question
+a2-have-to-for-obligation,A2,modal verbs,When do we use have to to talk about an obligation?,rule_question
+a2-have-to-for-obligation,A2,modal verbs,I have start work at eight. Is this sentence correct?,sentence_correction
+a2-have-to-for-obligation,A2,modal verbs,Do I use have to when the obligation comes from a rule or someone else?,indirect_question
+a2-can-for-ability-and-permission,A2,modal verbs,When do we use can to talk about what someone is able to do or to ask for permission?,rule_question
+a2-can-for-ability-and-permission,A2,modal verbs,He cans speak three languages. Is that correct?,sentence_correction
+a2-can-for-ability-and-permission,A2,modal verbs,"Can I leave early today, or do I need to wait?",indirect_question
+a2-mustnt-and-dont-have-to,A2,modal verbs,What is the difference between must not and do not have to?,rule_question
+a2-mustnt-and-dont-have-to,A2,modal verbs,I mustn't bring my lunch today because the office has a fridge. Is that correct?,sentence_correction
+a2-mustnt-and-dont-have-to,A2,modal verbs,"Do I need to bring lunch, or is it optional?",indirect_question
+a2-gerund-after-like-love-hate,A2,gerunds and infinitives,"When I talk about enjoying something, should I use the -ing form or to + verb after like, love, and hate?",rule_question
+a2-gerund-after-like-love-hate,A2,gerunds and infinitives,I love to cooking at home on weekends. Is this correct?,sentence_correction
+a2-gerund-after-like-love-hate,A2,gerunds and infinitives,Do you say “I like reading” or “I like to read” when you mean you enjoy it?,indirect_question
+a2-infinitive-after-want-need,A2,gerunds and infinitives,When do we use a to-infinitive after want and need?,rule_question
+a2-infinitive-after-want-need,A2,gerunds and infinitives,I need finish my homework tonight. Is that correct?,sentence_correction
+a2-infinitive-after-want-need,A2,gerunds and infinitives,Do I say I want to go home or I want go home?,indirect_question
+a2-present-perfect-experience,A2,present perfect,When do we use have/has + past participle to talk about experiences in life?,rule_question
+a2-present-perfect-experience,A2,present perfect,I visited Rome before. Is that correct?,sentence_correction
+a2-present-perfect-experience,A2,present perfect,Have you ever been to Rome? How would I say that in English?,indirect_question
+a2-present-perfect-with-yet-already-just,A2,present perfect,"When do we use yet, already, and just with the present perfect?",rule_question
+a2-present-perfect-with-yet-already-just,A2,present perfect,I have finished yet. Is this correct?,sentence_correction
+a2-present-perfect-with-yet-already-just,A2,present perfect,Can I say I've just eaten if I finished eating a few minutes ago?,indirect_question
+a2-present-perfect-vs-past-simple,A2,present perfect versus past simple,When should I use the present perfect instead of the past simple?,rule_question
+a2-present-perfect-vs-past-simple,A2,present perfect versus past simple,I have been to Japan last year. Is this correct?,sentence_correction
+a2-present-perfect-vs-past-simple,A2,present perfect versus past simple,"Have you ever tried sushi, or did you try it when you were in Japan?",indirect_question
+a2-going-to-and-present-continuous-for-future,A2,future forms,When should I use be going to and when should I use the present continuous for future plans or arrangements?,rule_question
+a2-going-to-and-present-continuous-for-future,A2,future forms,"I meet Tom tomorrow. Is that correct, or should I say it differently?",sentence_correction
+a2-going-to-and-present-continuous-for-future,A2,future forms,"If I want to talk about something arranged for tomorrow, which future form should I use?",indirect_question
+a2-first-and-second-conditionals,A2,conditionals,When do I use the first conditional and when do I use the second conditional?,rule_question
+a2-first-and-second-conditionals,A2,conditionals,"If it will rain tomorrow, we stay at home. Is that correct?",sentence_correction
+a2-first-and-second-conditionals,A2,conditionals,Can you tell me which conditional I should use for a possible future result and which one I should use for something unreal or unlikely?,indirect_question
+a2-zero-conditional,A2,conditionals,When do we use the present simple in both parts of an if sentence?,rule_question
+a2-zero-conditional,A2,conditionals,"If you heat water, it will boils. Is that correct?",sentence_correction
+a2-zero-conditional,A2,conditionals,"Can I say, ""If you mix red and blue, you get purple"" for a general fact?",indirect_question
+a2-passive-present-simple,A2,passive voice,How do I make the present simple passive in English?,rule_question
+a2-passive-present-simple,A2,passive voice,"English speaks here. Is that correct, or should I say it another way?",sentence_correction
+a2-passive-present-simple,A2,passive voice,"Can I say ""This language in our office"" when I want to talk about what people use here?",indirect_question
+a2-passive-past-simple,A2,passive voice,How do I form the past simple passive in English?,rule_question
+a2-passive-past-simple,A2,passive voice,"Is ""The car repaired yesterday"" correct, or should it be changed?",sentence_correction
+a2-passive-past-simple,A2,passive voice,"When I want to talk about a finished action and the person who did it is not important, how do I say it?",indirect_question
+a2-prepositions-time,A2,time prepositions,"When do we use at, on, and in with time expressions?",rule_question
+a2-prepositions-time,A2,time prepositions,I have a meeting in Monday morning. Is that correct?,sentence_correction
+a2-prepositions-time,A2,time prepositions,Do we say on 5 o'clock or at 5 o'clock?,indirect_question
+a2-prepositions-place,A2,prepositions of place,"When should I use in, on, and at for places?",rule_question
+a2-prepositions-place,A2,prepositions of place,Is it correct to say the keys are in the table?,sentence_correction
+a2-prepositions-place,A2,prepositions of place,How do I say that my phone is sitting on the desk?,indirect_question
+b1-present-perfect-continuous,B1,present perfect continuous,When do we use have/has been + verb-ing to talk about an action that started in the past and is still continuing or has just stopped?,rule_question
+b1-present-perfect-continuous,B1,present perfect continuous,"I am living here since 2022. Is that correct, or should I say it another way?",sentence_correction
+b1-present-perfect-continuous,B1,present perfect continuous,How do I say that I’ve waited for a long time and it’s still going on?,indirect_question
+b1-present-perfect-continuous-vs-simple,B1,present perfect continuous versus present perfect,When should I use the present perfect simple instead of the present perfect continuous?,rule_question
+b1-present-perfect-continuous-vs-simple,B1,present perfect continuous versus present perfect,"I have been finishing my work, so can I say that after I complete it?",sentence_correction
+b1-present-perfect-continuous-vs-simple,B1,present perfect continuous versus present perfect,"I’ve been studying all morning—does that sound right, or should I use the other form?",indirect_question
+b1-past-simple-vs-present-perfect,B1,past simple versus present perfect,When should I use the past simple instead of the present perfect in conversation?,rule_question
+b1-past-simple-vs-present-perfect,B1,past simple versus present perfect,I have seen her yesterday at the station. Is that correct?,sentence_correction
+b1-past-simple-vs-present-perfect,B1,past simple versus present perfect,Should I say I finished my homework last night or I have finished my homework last night?,indirect_question
+b1-future-present-continuous-vs-going-to,B1,future forms,When should I use the present continuous instead of going to for future plans or arrangements?,rule_question
+b1-future-present-continuous-vs-going-to,B1,future forms,Is this sentence correct: We meet the client on Friday?,sentence_correction
+b1-future-present-continuous-vs-going-to,B1,future forms,Can you tell me the difference between using present continuous and going to for future plans?,indirect_question
+b1-future-will-vs-going-to,B1,future forms,When should I use will instead of going to for the future?,rule_question
+b1-future-will-vs-going-to,B1,future forms,I am going to call you right now to answer the question. Is this correct?,sentence_correction
+b1-future-will-vs-going-to,B1,future forms,How do I say it if I decide at this moment to do something for someone?,indirect_question
+b1-modals-of-deduction-present,B1,modal verbs,"How do I use must, may, and might when I want to say how certain I am about something?",rule_question
+b1-modals-of-deduction-present,B1,modal verbs,He must to be at work. Is that sentence correct?,sentence_correction
+b1-modals-of-deduction-present,B1,modal verbs,"If I’m guessing about where she is, should I say she may be at home or she cannot be at home?",indirect_question
+b1-modals-advice,B1,modal verbs,When do we use should or ought to in English?,rule_question
+b1-modals-advice,B1,modal verbs,I think you should to visit the dentist soon. Is that correct?,sentence_correction
+b1-modals-advice,B1,modal verbs,How can I politely tell someone what is right or give advice?,indirect_question
+b1-modals-past-ability,B1,modal verbs,"When should I use could, and when should I use was able to when talking about past ability?",rule_question
+b1-modals-past-ability,B1,modal verbs,She could open the window after trying for an hour. Is this correct?,sentence_correction
+b1-modals-past-ability,B1,modal verbs,How do I say that I managed to finish one difficult thing in the past?,indirect_question
+b1-gerund-and-infinitive-after-remember-forget-stop,B1,gerunds and infinitives,"When should I use a gerund or an infinitive after verbs like remember, forget, and stop, and how does the meaning change?",rule_question
+b1-gerund-and-infinitive-after-remember-forget-stop,B1,gerunds and infinitives,I forgot lock the door before I left. Is that correct?,sentence_correction
+b1-gerund-and-infinitive-after-remember-forget-stop,B1,gerunds and infinitives,"I always remember to call my mom, but I’m not sure how it works with these verbs. Can you explain it?",indirect_question
+b1-gerund-after-prepositions,B1,gerunds and infinitives,"When do we use the -ing form after a preposition like in, for, or about?",rule_question
+b1-gerund-after-prepositions,B1,gerunds and infinitives,I am interested in learn French. Is that correct?,sentence_correction
+b1-gerund-after-prepositions,B1,gerunds and infinitives,Can you explain why we say 'good at speaking' instead of 'good at speak'?,indirect_question
+b1-infinitive-with-to-after-adjectives,B1,gerunds and infinitives,When do we use a to-infinitive after an adjective?,rule_question
+b1-infinitive-with-to-after-adjectives,B1,gerunds and infinitives,"Is this sentence correct: ""It is easy understanding""?",sentence_correction
+b1-infinitive-with-to-after-adjectives,B1,gerunds and infinitives,"Do we say ""happy meeting you"" or ""happy to meet you""?",indirect_question
+b1-passive-with-modal-verbs,B1,passive voice,How do I form the passive with modal verbs in English?,rule_question
+b1-passive-with-modal-verbs,B1,passive voice,"Can I say, 'The report must finished today'?",sentence_correction
+b1-passive-with-modal-verbs,B1,passive voice,"In a formal email, how do I say that something has to be done?",indirect_question
+b1-passive-with-present-perfect,B1,passive voice,How do I make the passive form in the present perfect tense?,rule_question
+b1-passive-with-present-perfect,B1,passive voice,Is this sentence correct: The room has cleaned?,sentence_correction
+b1-passive-with-present-perfect,B1,passive voice,"How do I say that something was done and the result is still true now, like with a room being cleaned recently?",indirect_question
+b1-first-conditional-variation,B1,conditionals,When should I use unless instead of if not in a future sentence?,rule_question
+b1-first-conditional-variation,B1,conditionals,"Unless it will rain, we will go out.",sentence_correction
+b1-first-conditional-variation,B1,conditionals,Can you explain how to use unless and when for future situations?,indirect_question
+b1-second-conditional-meaning,B1,conditionals,When do we use the form with if + past simple and would + base verb?,rule_question
+b1-second-conditional-meaning,B1,conditionals,"If I would have more free time, I would travel more. Is this sentence correct?",sentence_correction
+b1-second-conditional-meaning,B1,conditionals,How do I say that an imaginary situation in the present or future would change what I do?,indirect_question
+b1-third-conditional,B1,conditionals,How do I form a sentence to talk about a regret about something that didn’t happen in the past?,rule_question
+b1-third-conditional,B1,conditionals,"If I studied harder, I would have passed the exam. Is that correct?",sentence_correction
+b1-third-conditional,B1,conditionals,"Can I say something like, “I missed the bus because I woke up late, but if I had left earlier, I would have caught it”?",indirect_question
+b1-relative-pronouns-who-which-that,B1,relative clauses,"When do I use who, which, and that in a relative clause?",rule_question
+b1-relative-pronouns-who-which-that,B1,relative clauses,The woman which called me yesterday is my aunt. Is this correct?,sentence_correction
+b1-relative-pronouns-who-which-that,B1,relative clauses,"Can I say that for a person, or should I use another word?",indirect_question
+b1-reported-speech-present-simple-to-past-simple,B1,reported speech,"In reported speech, what usually happens to the present simple tense when we report what someone said?",rule_question
+b1-reported-speech-present-simple-to-past-simple,B1,reported speech,He said that he is tired. Is that correct in reported speech?,sentence_correction
+b1-reported-speech-present-simple-to-past-simple,B1,reported speech,"If I want to report someone saying they feel tired, do I say it in the same tense or change it back?",indirect_question
+b1-articles-no-article-with-general-plural-or-uncountable,B1,articles,"When I talk about plural nouns in a general way, do I need an article or not?",rule_question
+b1-articles-no-article-with-general-plural-or-uncountable,B1,articles,"I like the music and the water in this city. Is that correct, or should it be written differently?",sentence_correction
+b1-articles-no-article-with-general-plural-or-uncountable,B1,articles,"Do we say ""people are kind"" or ""the people are kind"" when we mean people in general?",indirect_question
+b1-countable-uncountable-quantifiers,B1,countable and uncountable nouns,"When should I use many and few, and when should I use much and little?",rule_question
+b1-countable-uncountable-quantifiers,B1,countable and uncountable nouns,We have many homework this week. Is that correct?,sentence_correction
+b1-countable-uncountable-quantifiers,B1,countable and uncountable nouns,Can you tell me which word I should use with things I can count and which one I should use with things I can't count?,indirect_question
