@@ -1,0 +1,246 @@
+question,expected_id,level,prompt_style,answer,source_ids,grammar_correctness,groundedness,level_appropriateness,helpfulness,explanation
+"When do I use am, is, and are with different subjects?",a1-verb-be-present,A1,direct,"1. **Answer / correction**
+- Use **am** with **I**
+- Use **is** with **he, she, it**
+- Use **are** with **you, we, they**
+
+2. **Relevant grammar rule**
+- The verb **be** changes with the subject.
+- In questions, put **am, is, or are** before the subject.
+
+3. **One brief example**
+- **Are you happy?**","a1-verb-be-questions,a1-verb-be-present,a1-there-is-there-are,a1-verb-be-negatives,a1-present-simple-questions,a1-present-simple-do-does-negatives,a1-this-that-these-those,a1-present-simple-habit,a1-possessive-adjectives,a1-articles-a-an-the",PASS,PASS,PASS,PASS,"The answer is grammatically correct and matches the retrieved A1 rules about present form of 'be' and questions with 'be'. The language is simple and suitable for an A1 learner. It clearly answers when to use am, is, and are, with a relevant example."
+"When do I use am, is, and are with different subjects?",a1-verb-be-present,A1,guided,"Use **am, is, are** with the subject like this:
+
+- **I am**  
+  - I am tired.
+
+- **he / she / it is**  
+  - She is happy.
+
+- **you / we / they are**  
+  - They are ready.
+
+In **questions**, put **am, is, are** **before** the subject:
+
+- **Are you** from Spain?
+- **Is he** your brother?
+
+**Example:**  
+- He is my brother.
+
+**Practice:**  
+Choose the correct word: **She ___ happy.**","a1-verb-be-questions,a1-verb-be-present,a1-there-is-there-are,a1-verb-be-negatives,a1-present-simple-questions,a1-present-simple-do-does-negatives,a1-this-that-these-those,a1-present-simple-habit,a1-possessive-adjectives,a1-articles-a-an-the",PASS,PASS,PASS,PASS,"The answer is grammatically accurate and matches the retrieved A1 rules for the verb be: am with I, is with he/she/it, and are with you/we/they. It also correctly notes that questions use inversion (am/is/are before the subject). The language is simple and suitable for an A1 learner, and it clearly answers when to use am, is, and are with different subjects."
+How do I say it if I want to say I'm not busy?,a1-verb-be-negatives,A1,direct,"1. **I am not busy.**
+
+2. **Rule:** Use **am not, is not,** or **are not** with **be** in negatives.
+
+3. **Example:** **I am not tired.**","a1-present-simple-do-does-negatives,a1-present-simple-questions,a1-verb-be-negatives,a1-subject-pronouns-i-you-he-she-it-we-they,a1-present-simple-habit,a1-present-simple-third-person,a1-verb-be-present,a1-plurals-spelling-changes,a1-plurals-regular",PASS,PASS,PASS,PASS,"The tutor answer is grammatically correct and matches the A1 context on negatives with the verb be. It gives the natural form ‘I am not busy,’ which directly answers the learner’s question. The wording is simple and suitable for an A1 learner."
+How do I say it if I want to say I'm not busy?,a1-verb-be-negatives,A1,guided,"You can say:
+
+**I am not busy.**
+
+**What changed:**  
+Nothing needed to change if you want to say this.  
+Use **am not** with **I**.
+
+**Rule:**  
+Use **am not** with **I** in negative sentences.
+
+**Example:**  
+**I am not late.**
+
+**Practice:**  
+Can you say: **I ___ not tired.**","a1-present-simple-do-does-negatives,a1-present-simple-questions,a1-verb-be-negatives,a1-subject-pronouns-i-you-he-she-it-we-they,a1-present-simple-habit,a1-present-simple-third-person,a1-verb-be-present,a1-plurals-spelling-changes,a1-plurals-regular",PASS,PASS,PASS,PASS,"The tutor answer is grammatically correct and matches the retrieved A1 context about negatives with the verb be: 'I am not hungry.' The explanation correctly says to use 'am not' with 'I'. The language is simple and suitable for A1, and it clearly answers the learner’s question by giving the exact sentence 'I am not busy.'"
+When do I use the first conditional and when do I use the second conditional?,a2-first-and-second-conditionals,A2,direct,"1. **Answer:**  
+Use the **first conditional** for a **possible future result**.  
+Use the **second conditional** for an **unreal or unlikely situation**.
+
+2. **Relevant grammar rule:**  
+Choose the form by **how possible the situation is**.  
+- **First conditional:** possible future result  
+- **Second conditional:** unreal or unlikely situation
+
+3. **Example:**  
+**If it rains, we will stay at home.**","a2-first-and-second-conditionals,a2-the-with-specific-things,a2-superlatives-short-adjectives,a2-some-any,a2-mustnt-and-dont-have-to,a2-prepositions-place,a2-zero-conditional,a2-passive-past-simple,a2-a-an-with-singular-countable,a2-present-continuous-now",PASS,PASS,PASS,PASS,"The answer is grammatically correct and matches the retrieved A2 rule. It clearly explains when to use the first and second conditional in simple language appropriate for an A2 learner, and the example is correct and relevant."
+When do I use the first conditional and when do I use the second conditional?,a2-first-and-second-conditionals,A2,guided,"Use the **first conditional** for **possible future results**.
+
+Use the **second conditional** for **unreal or unlikely situations**.
+
+**Simple rule:** choose the form by **how possible** the situation is.
+
+**Examples:**
+- First conditional: **If it rains, we will stay at home.**
+- Second conditional: **If I had more time, I would travel.**
+
+**Practice question:**  
+Which conditional is correct: **If I have time, I will call you** or **If I had time, I would call you**?","a2-first-and-second-conditionals,a2-the-with-specific-things,a2-superlatives-short-adjectives,a2-some-any,a2-mustnt-and-dont-have-to,a2-prepositions-place,a2-zero-conditional,a2-passive-past-simple,a2-a-an-with-singular-countable,a2-present-continuous-now",PASS,PASS,PASS,PASS,"The answer is grammatically correct and matches the retrieved A2 rule: first conditional for possible future results, second conditional for unreal or unlikely situations. The wording is simple and appropriate for an A2 learner, and it clearly answers the question with useful examples."
+When should I use will instead of going to for the future?,b1-future-will-vs-going-to,B1,direct,"1. **Answer:** Use **will** for **immediate decisions** and **predictions**. Use **going to** for **plans** and **predictions based on evidence**.
+
+2. **Grammar rule:** **Will** is used when you decide something now, or when you think something will happen. **Going to** is used for a plan or when you can see evidence.
+
+3. **Example:**  
+   **I will help you now.**","b1-future-will-vs-going-to,b1-modals-advice,b1-first-conditional-variation,b1-future-present-continuous-vs-going-to,b1-modals-past-ability,b1-present-perfect-continuous,b1-infinitive-with-to-after-adjectives,b1-gerund-and-infinitive-after-remember-forget-stop,b1-articles-no-article-with-general-plural-or-uncountable,b1-second-conditional-meaning",PASS,PASS,PASS,PASS,"The tutor answer matches the retrieved B1 rule: use will for immediate decisions and predictions, and going to for plans or evidence-based predictions. The example is also directly supported by the context. The wording is simple and suitable for a B1 learner, and it clearly answers the question."
+When should I use will instead of going to for the future?,b1-future-will-vs-going-to,B1,guided,"Use **will** for **immediate decisions** and **predictions**. Use **going to** for **plans** or **predictions based on evidence**.
+
+**Corrected sentence:**  
+I will help you now.
+
+**What changed:**  
+- **I am going to help you now** → **I will help you now**  
+- We changed **going to** to **will** because this is an **immediate decision**.
+
+**Simple rule:**  
+Use **will** when you decide at the moment. Use **going to** for a plan or when there is evidence.
+
+**Additional example:**  
+I think it will snow later.
+
+**Practice question:**  
+Choose the correct form:  
+Look at those dark clouds. It ___ rain.","b1-future-will-vs-going-to,b1-modals-advice,b1-first-conditional-variation,b1-future-present-continuous-vs-going-to,b1-modals-past-ability,b1-present-perfect-continuous,b1-infinitive-with-to-after-adjectives,b1-gerund-and-infinitive-after-remember-forget-stop,b1-articles-no-article-with-general-plural-or-uncountable,b1-second-conditional-meaning",PASS,PASS,PASS,PASS,"The answer matches the retrieved rule: will for immediate decisions and predictions, going to for plans or evidence-based predictions. The correction 'I will help you now' is accurate and directly addresses the learner’s question. The wording is clear and suitable for B1 level."
+This is me phone. Is that correct?,a1-possessive-adjectives,A1,direct,"1. **Correction:** This is **my** phone.
+
+2. **Rule:** Use **my, your, his, her, its, our,** and **their** before nouns.
+
+3. **Example:** This is my pen.","a1-this-that-these-those,a1-possessive-adjectives,a1-there-is-there-are,a1-verb-be-present,a1-verb-be-negatives,a1-verb-be-questions,a1-articles-a-an-the,a1-subject-pronouns-i-you-he-she-it-we-they,a1-present-simple-habit",PASS,PASS,PASS,PASS,"The answer correctly changes 'me' to 'my' and explains the possessive adjective rule exactly as in the retrieved A1 context. The language is simple and appropriate for an A1 learner, and it clearly answers the question with a relevant example."
+This is me phone. Is that correct?,a1-possessive-adjectives,A1,guided,"No, that is not correct.
+
+1. Corrected sentence: **This is my phone.**
+2. What changed: **me** changed to **my**.
+3. Rule: Use **my, your, his, her, its, our, and their** before nouns.
+4. Example: **That is my bag.**
+5. Practice: Is this **my** book?","a1-this-that-these-those,a1-possessive-adjectives,a1-there-is-there-are,a1-verb-be-present,a1-verb-be-negatives,a1-verb-be-questions,a1-articles-a-an-the,a1-subject-pronouns-i-you-he-she-it-we-they,a1-present-simple-habit",PASS,PASS,PASS,PASS,"The tutor correctly identifies that 'me' should be changed to the possessive adjective 'my' before the noun 'phone.' This matches the retrieved A1 rule about possessive adjectives. The wording is simple and suitable for an A1 learner, and it clearly answers the question by providing the corrected sentence and a practice example."
+"When I talk about plural nouns in a general way, do I need an article or not?",b1-articles-no-article-with-general-plural-or-uncountable,B1,direct,"1. **Answer:** No, you do **not** need an article. Use **no article** with plural nouns when you talk about them in a general way.
+
+2. **Rule:** Do not use an article when talking generally about plural nouns or uncountable nouns.
+
+3. **Example:** **Dogs are friendly.**","b1-articles-no-article-with-general-plural-or-uncountable,b1-first-conditional-variation,b1-present-perfect-continuous,b1-gerund-after-prepositions,b1-modals-past-ability,b1-past-simple-vs-present-perfect,b1-future-will-vs-going-to,b1-third-conditional,b1-countable-uncountable-quantifiers,b1-present-perfect-continuous-vs-simple",PASS,PASS,PASS,PASS,"The tutor answer is grammatically correct, matches the retrieved rule exactly, and uses simple B1-friendly language. It clearly answers the learner’s question that general plural nouns do not need an article, with an appropriate example."
+"When I talk about plural nouns in a general way, do I need an article or not?",b1-articles-no-article-with-general-plural-or-uncountable,B1,guided,"No article.
+
+1. **Corrected sentence:**  
+   **Dogs are friendly.**
+
+2. **What changed:**  
+   I removed **the** before **dogs**.
+
+3. **Rule:**  
+   Do not use an article when talking generally about plural nouns.
+
+4. **Additional example:**  
+   **Books are useful.**
+
+5. **Practice question:**  
+   Say it correctly: **The apples are healthy.**","b1-articles-no-article-with-general-plural-or-uncountable,b1-first-conditional-variation,b1-present-perfect-continuous,b1-gerund-after-prepositions,b1-modals-past-ability,b1-past-simple-vs-present-perfect,b1-future-will-vs-going-to,b1-third-conditional,b1-countable-uncountable-quantifiers,b1-present-perfect-continuous-vs-simple",PASS,PASS,PASS,PASS,"The tutor answer correctly states that no article is used with general plural nouns and gives an accurate correction (“Dogs are friendly”). This matches the retrieved B1 rule. The language is simple and suitable for a B1 learner, and it clearly answers the question with an extra example and practice item."
+"When do we use yet, already, and just with the present perfect?",a2-present-perfect-with-yet-already-just,A2,direct,"1. **Answer:**  
+   Use **yet** in **negative sentences and questions**, **already** in **positive sentences**, and **just** for **very recent actions**.
+
+2. **Relevant grammar rule:**  
+   These words often go with the **present perfect**.
+
+3. **Example:**  
+   **Have you finished yet?**  
+   **I have already finished.**  
+   **She has just left.**","a2-present-perfect-with-yet-already-just,a2-superlatives-short-adjectives,a2-a-an-with-singular-countable,a2-the-with-specific-things,a2-present-perfect-experience,a2-present-perfect-vs-past-simple,a2-present-simple-vs-continuous,a2-future-will,a2-some-any,a2-present-continuous-now",PASS,PASS,PASS,PASS,"The tutor answer is grammatically correct, matches the retrieved rule exactly, and uses simple A2-friendly language. It clearly answers when to use yet, already, and just with the present perfect and gives correct examples."
+"When do we use yet, already, and just with the present perfect?",a2-present-perfect-with-yet-already-just,A2,guided,"Use **yet** in **negative sentences and questions**, **already** in **positive sentences**, and **just** for **very recent actions**.
+
+Examples:
+- **I have already finished.**
+- **Has he arrived yet?**
+- **I have not finished yet.**
+
+What changed in the incorrect example:
+- **I have finished yet** → **I have not finished yet**
+- We added **not** because **yet** is usually used in **negatives** or **questions**, not in positive sentences.
+
+Rule:
+- **Yet** = negatives and questions
+- **Already** = positive sentences
+- **Just** = very recent actions
+
+One more example:
+- **She has just left.**
+
+Practice question:
+- Make a sentence with **already**.","a2-present-perfect-with-yet-already-just,a2-superlatives-short-adjectives,a2-a-an-with-singular-countable,a2-the-with-specific-things,a2-present-perfect-experience,a2-present-perfect-vs-past-simple,a2-present-simple-vs-continuous,a2-future-will,a2-some-any,a2-present-continuous-now",PASS,PASS,PASS,PASS,"The answer accurately explains the A2 present perfect use of yet, already, and just. It matches the retrieved rule: yet in negatives/questions, already in positives, and just for very recent actions. The language is simple and suitable for an A2 learner, and it clearly answers the question with examples and a correction."
+"When should I use could, and when should I use was able to when talking about past ability?",b1-modals-past-ability,B1,direct,"1. **Answer / correction:**  
+Use **could** for **general past ability**. Use **was able to** for **a specific successful action in the past**.
+
+2. **Relevant grammar rule:**  
+**Could** is used for general past ability. **Was able to** is used for one finished success in the past. **Could** is not usually used for a specific success.
+
+3. **Example:**  
+When I was young, I **could** run fast.  
+She **was able to** open the window after trying for an hour.","b1-modals-past-ability,b1-modals-advice,b1-first-conditional-variation,b1-infinitive-with-to-after-adjectives,b1-articles-no-article-with-general-plural-or-uncountable,b1-third-conditional,b1-past-simple-vs-present-perfect,b1-future-will-vs-going-to,b1-reported-speech-present-simple-to-past-simple,b1-second-conditional-meaning",PASS,PASS,PASS,PASS,"The tutor answer matches the retrieved B1 rule exactly: could for general past ability and was able to for a specific successful action. The examples are correct and clear, and the language is simple and suitable for a B1 learner. It directly answers the learner’s question."
+"When should I use could, and when should I use was able to when talking about past ability?",b1-modals-past-ability,B1,guided,"Use **could** for **general past ability** and **was able to** for a **specific successful action** in the past.
+
+**Example:**
+- When I was young, I **could run fast**.  
+- She **was able to open** the window.
+
+If you mean **one finished success**, use **was able to**, not **could**.
+
+**One more example:**
+- He **was able to finish** the test after extra time.
+
+**Practice question:**
+- Choose the correct form:  
+  She ______ find her keys after searching for an hour.","b1-modals-past-ability,b1-modals-advice,b1-first-conditional-variation,b1-infinitive-with-to-after-adjectives,b1-articles-no-article-with-general-plural-or-uncountable,b1-third-conditional,b1-past-simple-vs-present-perfect,b1-future-will-vs-going-to,b1-reported-speech-present-simple-to-past-simple,b1-second-conditional-meaning",PASS,PASS,PASS,PASS,"The answer matches the retrieved rule: could is used for general past ability, and was able to is used for a specific successful past action. The examples are grammatically correct and directly address the learner’s question. The language is clear and suitable for B1, with simple sentences and familiar terminology. It is also helpful because it includes examples and a practice question."
+"When do I use my, your, his, her, its, our, and their before a noun?",a1-possessive-adjectives,A1,direct,"1. **Answer:** Use **my, your, his, her, its, our, and their** **before a noun**.
+
+2. **Rule:** These words are **possessive adjectives**. They show **who owns something**.
+
+3. **Example:** **This is my phone.**","a1-possessive-adjectives,a1-present-simple-questions,a1-adjectives-order,a1-present-simple-do-does-negatives,a1-subject-pronouns-i-you-he-she-it-we-they,a1-this-that-these-those,a1-articles-a-an-the,a1-verb-be-questions,a1-plurals-spelling-changes,a1-there-is-there-are",PASS,PASS,PASS,PASS,"The answer is grammatically correct, matches the retrieved rule exactly, and uses simple A1 language. It clearly tells the learner that my, your, his, her, its, our, and their come before a noun and gives a correct example."
+"When do I use my, your, his, her, its, our, and their before a noun?",a1-possessive-adjectives,A1,guided,"Use **my, your, his, her, its, our, and their** **before a noun**.
+
+- **Correct:** This is **my phone**.
+- **Correct:** **Their house** is big.
+- **Incorrect:** This is **me phone**.
+- **Corrected:** This is **my phone**.
+
+**What changed?**  
+I changed **me** to **my**.
+
+**Rule:**  
+Use possessive adjectives before nouns.
+
+**Extra example:**  
+That is **our car**.
+
+**Practice:**  
+Say it correctly: **___ book** (for “my”).","a1-possessive-adjectives,a1-present-simple-questions,a1-adjectives-order,a1-present-simple-do-does-negatives,a1-subject-pronouns-i-you-he-she-it-we-they,a1-this-that-these-those,a1-articles-a-an-the,a1-verb-be-questions,a1-plurals-spelling-changes,a1-there-is-there-are",PASS,PASS,PASS,PASS,"The answer correctly states the rule that my, your, his, her, its, our, and their go before nouns, and its examples match the retrieved context. The language is simple and suitable for an A1 learner. It directly answers the learner’s question and includes a brief practice prompt, which is helpful."
+"When should I use many and few, and when should I use much and little?",b1-countable-uncountable-quantifiers,B1,direct,"1. **Answer:**  
+Use **many** and **few** with **countable nouns**, and **much** and **little** with **uncountable nouns**.
+
+2. **Relevant grammar rule:**  
+Match the quantifier to the noun type.
+
+3. **Example:**  
+**Many students** arrived early.  
+**We have much homework.**","b1-modals-advice,b1-countable-uncountable-quantifiers,b1-first-conditional-variation,b1-infinitive-with-to-after-adjectives,b1-articles-no-article-with-general-plural-or-uncountable,b1-modals-past-ability,b1-gerund-after-prepositions,b1-modals-of-deduction-present,b1-future-present-continuous-vs-going-to,b1-passive-with-modal-verbs",PASS,PASS,PASS,PASS,"The answer is grammatically correct, directly supported by the retrieved B1 rule on quantifiers with countable and uncountable nouns, and uses clear B1-level language. It answers the learner’s question clearly by stating when to use many/few versus much/little and gives appropriate examples."
+"When should I use many and few, and when should I use much and little?",b1-countable-uncountable-quantifiers,B1,guided,"Use **many** and **few** with **countable nouns**, and **much** and **little** with **uncountable nouns**.
+
+### Correct rule
+- **many / few** + countable nouns
+- **much / little** + uncountable nouns
+
+### Example
+- **Many students** arrived early.  
+- We have **much homework**.
+
+### What changes?
+The quantifier must match the noun type:
+- **students** is countable, so use **many**
+- **homework** is uncountable, so use **much**
+
+### Simple rule
+Match the quantifier to the noun:
+- countable = **many / few**
+- uncountable = **much / little**
+
+### One more example
+- **Few books** were on the shelf.
+
+### Practice question
+Choose the correct word: **many, few, much, or little**  
+I have too ______ water.","b1-modals-advice,b1-countable-uncountable-quantifiers,b1-first-conditional-variation,b1-infinitive-with-to-after-adjectives,b1-articles-no-article-with-general-plural-or-uncountable,b1-modals-past-ability,b1-gerund-after-prepositions,b1-modals-of-deduction-present,b1-future-present-continuous-vs-going-to,b1-passive-with-modal-verbs",PASS,PASS,PASS,PASS,"The answer is grammatically accurate and directly matches the retrieved B1 rule about quantifiers: many/few with countable nouns and much/little with uncountable nouns. The language is simple and appropriate for a B1 learner. It clearly answers the question and includes examples plus a short practice item, which makes it helpful."
