@@ -1,0 +1,22 @@
+services:
+  grammar-tutor:
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    env_file:
+      - .env
+
+    environment:
+      APP_DB_PATH: /app/runtime/app.db
+      RETRIEVAL_METHOD: hybrid
+      RETRIEVAL_TOP_K: 5
+
+    ports:
+      - "8501:8501"
+
+    volumes:
+      - grammar_tutor_runtime:/app/runtime
+
+volumes:
+  grammar_tutor_runtime:

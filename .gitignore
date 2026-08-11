@@ -16,3 +16,9 @@ __pycache__/
 *.db
 *.sqlite
 *.log
+
+runtime/
+
+.env
+runtime/app.db
+.venv/

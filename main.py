@@ -8,6 +8,13 @@ result = run_agent(
     level="A2",
 )
 
+save_conversation(
+    conversation_id=conversation_id,
+    question=question,
+    learner_level=level,
+    result=result,
+)
+
 print(result["answer"])
 print()
 print("Sources:", result["source_ids"])
