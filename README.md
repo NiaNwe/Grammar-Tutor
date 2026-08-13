@@ -125,19 +125,21 @@ The Streamlit monitoring dashboard contains:
 6. User feedback
 
 ## Project structure
-'''text
+## Project Structure
+
+```text
 llm-project/
-├── app.py                             
-├── Dockerfile                         
-├── docker-compose.yaml                
-├── pyproject.toml                     
-├── uv.lock                           
-├── .python-version                                       
+├── app.py
+├── Dockerfile
+├── docker-compose.yaml
+├── pyproject.toml
+├── uv.lock
+├── .python-version
 ├── .gitignore
 ├── .dockerignore
 │
 ├── data/
-│   ├── grammar_rules.csv              
+│   ├── grammar_rules.csv
 │   ├── grammar-document-embeddings.npy
 │   ├── evaluation-question-embeddings.npy
 │   ├── ground-truth-retrieval.csv
@@ -147,19 +149,25 @@ llm-project/
 │
 ├── src/
 │   ├── __init__.py
-│   ├── agent.py                       
-│   ├── retrieval.py                   
-│   ├── knowledge_base.py              
-│   ├── rag.py                         
-│   └── db.py                          
+│   ├── agent.py
+│   ├── retrieval.py
+│   ├── knowledge_base.py
+│   ├── rag.py
+│   └── db.py
 │
 ├── pages/
-│   └── 1_Dashboard.py                 
+│   └── 1_Dashboard.py
 │
-├── code.ipynb                         
-├── main.py                            
+├── images/
+│   ├── grammar-coach-ui.png
+│   ├── sentence-correction-result.png
+│   ├── monitoring-dashboard-1.png
+│   └── docker-compose-run.png
+│
+├── code.ipynb
+├── main.py
 └── README.md
-'''
+```
 ## Local installation
 
 To run this agent, you will need:
