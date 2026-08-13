@@ -125,7 +125,6 @@ The Streamlit monitoring dashboard contains:
 6. User feedback
 
 ## Project structure
-## Project Structure
 
 ```text
 llm-project/
@@ -174,15 +173,30 @@ To run this agent, you will need:
 - Python 3.14+
 - uv
 - OpenAI API key
+- Docker/DockerCompose
 
 git clone link: https://github.com/NiaNwe/llm-project.git
 
 ## Environment variables
-
+##Local Installations
+In your .env:
+```text
 OPENAI_API_KEY=your_openai_api_key
 OPENAI_MODEL=gpt-5.4-mini
 RETRIEVAL_METHOD=vector
 RETRIEVAL_TOP_K=5
+```
+Install uv and run either:
+1. Streamlit application
+  ```text
+   uv run streamlit run app.py
+   localhost: http://localhost:8501
+  ```
+3. Build dockercompose
+   ```text
+   docker compose up --build
+   docker compose down
+    ```
 
 ## Screenshots
 
