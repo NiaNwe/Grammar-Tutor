@@ -47,9 +47,10 @@ Each grammar card depicts one grammar concept and contains:
 
 ## Data generation and validation
 Total cards: 64
-B1    20
-A2    29
-A1    15
+
+B1: 20, 
+A2: 29,
+A1: 15
 
 The grammar cards are generated with the help of AI.
 The generated grammar cards were then reviewed for:
