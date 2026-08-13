@@ -9,7 +9,7 @@ services:
 
     environment:
       APP_DB_PATH: /app/runtime/app.db
-      RETRIEVAL_METHOD: hybrid
+      RETRIEVAL_METHOD: vector
       RETRIEVAL_TOP_K: 5
 
     ports:
