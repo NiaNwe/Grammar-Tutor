@@ -125,7 +125,7 @@ The Streamlit monitoring dashboard contains:
 6. User feedback
 
 ## Project structure
-
+'''text
 llm-project/
 ├── app.py                             
 ├── Dockerfile                         
@@ -159,7 +159,7 @@ llm-project/
 ├── code.ipynb                         
 ├── main.py                            
 └── README.md
-
+'''
 ## Local installation
 
 To run this agent, you will need:
