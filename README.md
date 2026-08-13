@@ -1,4 +1,4 @@
-# Grammar Coach
+# Grammar Tutor
 An Agentic RAG application designed to help adult English learnings at CEFR levels A1 to B1 to understand basic grammar rules, correct sentences and practice common grammar mistakes.
 
 ## Problem description
@@ -70,7 +70,7 @@ Different grammar fields are assigned different weights. Fields such as the titl
 
 ### Vector retrieval
 
-Semantic retrieval uses OpenAI `text-embedding-3-small` embeddings together with `minsearch.VectorSearch`.
+Vector retrieval uses OpenAI "text-embedding-3-small" embeddings together with "minsearch.VectorSearch".
 
 Grammar cards are embedded ahead of time and stored in:
 
@@ -167,39 +167,65 @@ llm-project/
 ├── main.py
 └── README.md
 ```
-## Local installation
+## Local Installations
+### Prerequisites
+To run the project locally, you will need:
+- Python 3.14 or later
+- uv for dependency management
+- An OpenAI API key
+- Git
 
-To run this agent, you will need:
-- Python 3.14+
-- uv
-- OpenAI API key
-- Docker/DockerCompose
+### Clone repository
+```text
+git clone https://github.com/NiaNwe/llm-project.git
+cd llm-project
+```
 
-git clone link: https://github.com/NiaNwe/llm-project.git
+### Install dependencies
+The project uses uv and the dependencies defined in pyproject.toml.
+```text
+uv sync
+```
+This creates the virtual environment and installs the required packages.
 
-## Environment variables
-##Local Installations
-In your .env:
+### Environment Variables
+Create a .env file in the project root:
 ```text
 OPENAI_API_KEY=your_openai_api_key
 OPENAI_MODEL=gpt-5.4-mini
 RETRIEVAL_METHOD=vector
 RETRIEVAL_TOP_K=5
 ```
-Install uv and run either:
-1. Streamlit application
-  ```text
-   uv run streamlit run app.py
-   localhost: http://localhost:8501
-  ```
-3. Build dockercompose
-   ```text
-   docker compose up --build
-   docker compose down
-    ```
+Replace your_openai_api_key with your actual OpenAI API key.
 
+### Starting the application
+
+Run the Streamlit application from the project root:
+```text
+uv run streamlit run app.py
+```
+Once the application starts, open:
+```text
+http://localhost:8501
+```
+### Assessing the monitoring dashboard
+The monitoring dashboard is included as a Streamlit page. After starting the application, select Dashboard from the Streamlit sidebar.
+
+The dashboard displays information such as:
+
+number of questions
+response time
+token usage
+learner levels
+agent tool calls
+user feedback
+
+Conversation data is stored locally in:
+```text
+runtime/app.db
+```
+The database is created automatically when the application runs.
 ## Screenshots
-
 ### Grammar Coach UI
 ![Grammar Coach UI](images/grammar-coach-ui.png)
 
