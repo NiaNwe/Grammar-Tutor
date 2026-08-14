@@ -92,7 +92,7 @@ Two metrics were used:
 - Mean Reciprocal Rank (MRR): how highly the expected grammar card is ranked
 
 | Retrieval Method | Hit Rate   | MRR        |
-
+| ---------------- | ---------- | ---------- |
 | Keyword          | 0.9621     | 0.8017     |
 | Vector           | 1.0000     | 0.9365     |
 | Hybrid           | 1.0000     | 0.8944     |
